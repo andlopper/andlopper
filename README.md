@@ -5,3 +5,4 @@
 - 📓 Estudo programação em Java e Python
 - 📚 Aluno de Engenharia de Computação (UFSM)
 - 📫 andrelopespereiraa@gmail.com
+- 👨‍🦱 www.linkedin.com/in/andrelopespereira/
